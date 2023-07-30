@@ -1,5 +1,5 @@
 ## Homework_module19
-# KryptoJobs2Go
+# Cryptocurrency Wallet
 
 This project combines Ethereum blockchain transactions with the KryptoJobs2Go application using Python files `krypto_jobs.py` and `crypto_wallet.py`.
 
